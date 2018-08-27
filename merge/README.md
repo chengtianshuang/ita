@@ -11,7 +11,8 @@
 **治**：分别处理小问题，极小问题直接处理<br>
 **合**：以小问题的解构建原问题的解<br>
   
-  
+#### 方案图示
+  ![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535342366497&di=cbd17c5729871f95829769c9daaea2c4&imgtype=0&src=http%3A%2F%2Fwww.vfast.com.cn%2Fuploadfile%2F2017%2F1130%2F20171130054558466.jpg)
 #### 算法性能
 归并排序的时间复杂度为nlgn <br>
 空间复杂度为n。
