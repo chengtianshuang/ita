@@ -35,7 +35,8 @@ cpu配置：2.2 GHz Intel Core i7
 将k路排好序的数组，合并成1路  
 
 利用优先级队列，快速取出各路之间第一个值最小的1路，并将最小值放入新数组中
-
+!["多路归并原理"](
+https://github.com/chengtianshuang/ita/blob/master/photo/%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6%E5%8E%9F%E7%90%86.jpeg)
 
 #### 算法性能：
 时间复杂度： <br>
